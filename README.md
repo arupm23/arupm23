@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arupm23
 - 👀 I’m interested in learning and innovating in the areas Artificial Intelligence, Machine Learning and Data Science
-- 🌱 I’m currently learning AI Safety Techniques, Advanced LLM Models, Quantum Computing.
+- 🌱 I’m currently learning AI Safety Techniques, Advanced LLM Models and Quantum Computing.
 - 🤝 I’m looking to collaborate on Research projects based on LLM's and Agentic AI
 - 📫 How to reach me, connect to me on my linkedin profile www.linkedin.com/in/arup19/
 
